@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+.vite/
+dist/
+
+# Firebase + environment
+.env
+.firebase/
+
+# Build output
+*.log
+npm-debug.log*
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# System-specific
+*.bak
+*.tmp
+
+# VS Code backup files
+*.code-workspace
